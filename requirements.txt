@@ -1,0 +1,6 @@
+# MediCards runs on the Python 3.9+ standard library only.
+# (json, csv, datetime, random, argparse, pathlib, hashlib, unittest)
+#
+# There is nothing to install:
+#     python -m src.main --help
+#     python -m unittest discover -s tests -v

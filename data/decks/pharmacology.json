@@ -1,0 +1,138 @@
+{
+  "name": "Pharmacology - antidotes & mechanisms",
+  "description": "Classic antidotes, drug mechanisms and monitoring parameters. Study aid only - not clinical guidance.",
+  "cards": [
+    {
+      "id": "ph-001",
+      "question": "Antidote for paracetamol (acetaminophen) overdose?",
+      "answer": "N-acetylcysteine (NAC) - replenishes glutathione so NAPQI can be detoxified. Most effective within 8 hours of ingestion.",
+      "tags": ["antidote", "toxicology"]
+    },
+    {
+      "id": "ph-002",
+      "question": "Antidote for warfarin over-anticoagulation?",
+      "answer": "Vitamin K1 (phytomenadione). Add 4-factor prothrombin complex concentrate (or FFP if unavailable) when there is major bleeding.",
+      "tags": ["antidote", "anticoagulation"]
+    },
+    {
+      "id": "ph-003",
+      "question": "Antidote for opioid overdose?",
+      "answer": "Naloxone - a competitive opioid receptor antagonist. Short half-life, so re-dosing or an infusion may be needed.",
+      "tags": ["antidote", "toxicology"]
+    },
+    {
+      "id": "ph-004",
+      "question": "Antidote for benzodiazepine overdose, and its main caveat?",
+      "answer": "Flumazenil. Caveat: it can precipitate seizures in chronic benzodiazepine users or mixed overdose (e.g. with TCAs), so it is rarely used.",
+      "tags": ["antidote", "toxicology"]
+    },
+    {
+      "id": "ph-005",
+      "question": "Antidote for unfractionated heparin?",
+      "answer": "Protamine sulfate. It only partially reverses low molecular weight heparin (roughly 60%).",
+      "tags": ["antidote", "anticoagulation"]
+    },
+    {
+      "id": "ph-006",
+      "question": "Antidote for organophosphate poisoning?",
+      "answer": "Atropine (blocks muscarinic effects) plus pralidoxime (reactivates acetylcholinesterase before ageing).",
+      "tags": ["antidote", "toxicology"]
+    },
+    {
+      "id": "ph-007",
+      "question": "Antidote for digoxin toxicity?",
+      "answer": "Digoxin-specific antibody Fab fragments (DigiFab). Also correct hyperkalaemia - but avoid calcium in classic teaching.",
+      "tags": ["antidote", "cardiology"]
+    },
+    {
+      "id": "ph-008",
+      "question": "Antidote for methanol or ethylene glycol poisoning?",
+      "answer": "Fomepizole (alcohol dehydrogenase inhibitor); ethanol is the alternative. Haemodialysis for severe acidosis or high levels.",
+      "tags": ["antidote", "toxicology"]
+    },
+    {
+      "id": "ph-009",
+      "question": "Antidote for iron overdose?",
+      "answer": "Deferoxamine - a chelating agent given IV.",
+      "tags": ["antidote", "toxicology"]
+    },
+    {
+      "id": "ph-010",
+      "question": "First-line antidote for beta-blocker overdose?",
+      "answer": "Glucagon - raises cAMP independently of beta receptors. High-dose insulin/euglycaemia therapy is used in refractory cases.",
+      "tags": ["antidote", "cardiology"]
+    },
+    {
+      "id": "ph-011",
+      "question": "Mechanism of action of aspirin?",
+      "answer": "Irreversible acetylation of COX-1 and COX-2. At low dose it blocks platelet thromboxane A2 for the platelet's whole lifespan (~7-10 days).",
+      "tags": ["mechanism", "antiplatelet"]
+    },
+    {
+      "id": "ph-012",
+      "question": "Mechanism of action of metformin?",
+      "answer": "Reduces hepatic gluconeogenesis and increases peripheral insulin sensitivity, largely via AMPK activation. Does not cause hypoglycaemia on its own.",
+      "tags": ["mechanism", "endocrine"]
+    },
+    {
+      "id": "ph-013",
+      "question": "Mechanism and two classic side effects of ACE inhibitors?",
+      "answer": "Block angiotensin-converting enzyme, lowering angiotensin II and aldosterone. Classic side effects: dry cough (bradykinin) and hyperkalaemia; rarely angio-oedema.",
+      "tags": ["mechanism", "cardiology"]
+    },
+    {
+      "id": "ph-014",
+      "question": "Mechanism of action of statins?",
+      "answer": "Competitive inhibition of HMG-CoA reductase, the rate-limiting enzyme of hepatic cholesterol synthesis, which up-regulates LDL receptors.",
+      "tags": ["mechanism", "lipids"]
+    },
+    {
+      "id": "ph-015",
+      "question": "Mechanism of action of proton pump inhibitors?",
+      "answer": "Irreversible inhibition of the gastric H+/K+ ATPase (proton pump) in parietal cells.",
+      "tags": ["mechanism", "gastro"]
+    },
+    {
+      "id": "ph-016",
+      "question": "Which drug class do generic names ending in '-olol' belong to?",
+      "answer": "Beta-adrenergic receptor blockers (propranolol, metoprolol, atenolol, bisoprolol).",
+      "tags": ["naming"]
+    },
+    {
+      "id": "ph-017",
+      "question": "Two hallmark toxicities of aminoglycosides?",
+      "answer": "Nephrotoxicity (usually reversible) and ototoxicity (often irreversible). They also potentiate neuromuscular blockade.",
+      "tags": ["antibiotics", "adverse-effects"]
+    },
+    {
+      "id": "ph-018",
+      "question": "Which lab test monitors warfarin, and which monitors unfractionated heparin?",
+      "answer": "Warfarin: INR (derived from prothrombin time). Unfractionated heparin: aPTT (or anti-Xa).",
+      "tags": ["monitoring", "anticoagulation"]
+    },
+    {
+      "id": "ph-019",
+      "question": "Which drugs classically cause gingival hyperplasia?",
+      "answer": "Phenytoin, ciclosporin and dihydropyridine calcium channel blockers such as nifedipine.",
+      "tags": ["adverse-effects"]
+    },
+    {
+      "id": "ph-020",
+      "question": "The clinical triad of serotonin syndrome?",
+      "answer": "Altered mental status, autonomic hyperactivity (fever, tachycardia, sweating) and neuromuscular excitation (clonus, hyperreflexia - worse in the legs).",
+      "tags": ["adverse-effects", "psychiatry"]
+    },
+    {
+      "id": "ph-021",
+      "question": "Which antibiotic class is avoided in pregnancy and in young children because it stains teeth?",
+      "answer": "Tetracyclines - they bind calcium in developing teeth and bone.",
+      "tags": ["antibiotics", "pregnancy"]
+    },
+    {
+      "id": "ph-022",
+      "question": "Why must beta-blockers be used cautiously with verapamil or diltiazem?",
+      "answer": "Additive negative chronotropic and inotropic effects - risk of severe bradycardia, AV block and heart failure.",
+      "tags": ["interactions", "cardiology"]
+    }
+  ]
+}

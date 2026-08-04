@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Tests / tooling
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local study data — your progress is yours, not the repo's
+data/progress.json
+data/*.backup.json
+reports/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

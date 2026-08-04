@@ -1,0 +1,138 @@
+{
+  "name": "ICD-10 - everyday codes",
+  "description": "Frequently used ICD-10 codes and chapter structure. Coding rules vary by country and revision (ICD-10-CM adds extra digits) - check your local code set before billing.",
+  "cards": [
+    {
+      "id": "icd-001",
+      "question": "ICD-10 code for essential (primary) hypertension?",
+      "answer": "I10",
+      "tags": ["cardiology"]
+    },
+    {
+      "id": "icd-002",
+      "question": "ICD-10 code for type 2 diabetes mellitus?",
+      "answer": "E11 (E10 is type 1)",
+      "tags": ["endocrine"]
+    },
+    {
+      "id": "icd-003",
+      "question": "ICD-10 code for acute myocardial infarction?",
+      "answer": "I21 - e.g. I21.9 acute MI, unspecified; I22 is a subsequent MI.",
+      "tags": ["cardiology"]
+    },
+    {
+      "id": "icd-004",
+      "question": "ICD-10 code for heart failure?",
+      "answer": "I50 - I50.9 unspecified, I50.0 congestive (ICD-10-CM splits systolic I50.2 / diastolic I50.3).",
+      "tags": ["cardiology"]
+    },
+    {
+      "id": "icd-005",
+      "question": "ICD-10 code for asthma?",
+      "answer": "J45 (J45.9 asthma, unspecified)",
+      "tags": ["respiratory"]
+    },
+    {
+      "id": "icd-006",
+      "question": "ICD-10 code for chronic obstructive pulmonary disease?",
+      "answer": "J44 - J44.9 COPD unspecified, J44.1 with acute exacerbation.",
+      "tags": ["respiratory"]
+    },
+    {
+      "id": "icd-007",
+      "question": "ICD-10 code for pneumonia, unspecified organism?",
+      "answer": "J18.9",
+      "tags": ["respiratory", "infection"]
+    },
+    {
+      "id": "icd-008",
+      "question": "ICD-10 code for a urinary tract infection, site not specified?",
+      "answer": "N39.0",
+      "tags": ["renal", "infection"]
+    },
+    {
+      "id": "icd-009",
+      "question": "ICD-10 code for gastro-oesophageal reflux disease without oesophagitis?",
+      "answer": "K21.9 (K21.0 is GORD with oesophagitis)",
+      "tags": ["gastro"]
+    },
+    {
+      "id": "icd-010",
+      "question": "ICD-10 code for cerebral infarction (ischaemic stroke)?",
+      "answer": "I63 - I61 is intracerebral haemorrhage, I60 subarachnoid haemorrhage.",
+      "tags": ["neurology"]
+    },
+    {
+      "id": "icd-011",
+      "question": "ICD-10 code for chronic kidney disease, stage 5?",
+      "answer": "N18.5 (N18.6 is end-stage renal disease, N18.9 CKD unspecified)",
+      "tags": ["renal"]
+    },
+    {
+      "id": "icd-012",
+      "question": "ICD-10 code for a major depressive episode, single, unspecified severity?",
+      "answer": "F32.9 (F33 is recurrent depressive disorder)",
+      "tags": ["psychiatry"]
+    },
+    {
+      "id": "icd-013",
+      "question": "ICD-10 code for generalised anxiety disorder?",
+      "answer": "F41.1",
+      "tags": ["psychiatry"]
+    },
+    {
+      "id": "icd-014",
+      "question": "ICD-10 code for migraine?",
+      "answer": "G43 - G43.0 without aura, G43.1 with aura, G43.9 unspecified.",
+      "tags": ["neurology"]
+    },
+    {
+      "id": "icd-015",
+      "question": "ICD-10 code for acute appendicitis?",
+      "answer": "K35 - e.g. K35.80 acute appendicitis, unspecified (ICD-10-CM).",
+      "tags": ["surgery"]
+    },
+    {
+      "id": "icd-016",
+      "question": "ICD-10 code for malignant neoplasm of the breast?",
+      "answer": "C50, with a fourth character for the site (e.g. C50.9 breast, unspecified).",
+      "tags": ["oncology"]
+    },
+    {
+      "id": "icd-017",
+      "question": "ICD-10 code for hyperlipidaemia, unspecified?",
+      "answer": "E78.5 (E78.0 pure hypercholesterolaemia, E78.1 pure hyperglyceridaemia)",
+      "tags": ["lipids"]
+    },
+    {
+      "id": "icd-018",
+      "question": "ICD-10 code for COVID-19 with the virus identified?",
+      "answer": "U07.1 (U07.2 is COVID-19, virus not identified - clinically or epidemiologically diagnosed).",
+      "tags": ["infection"]
+    },
+    {
+      "id": "icd-019",
+      "question": "Which body system does ICD-10 chapter 'I' cover?",
+      "answer": "Diseases of the circulatory system (I00-I99).",
+      "tags": ["structure"]
+    },
+    {
+      "id": "icd-020",
+      "question": "What do ICD-10 codes starting with 'Z' describe?",
+      "answer": "Factors influencing health status and contact with health services - screening, follow-up, immunisation, family history (Z00-Z99), not diseases.",
+      "tags": ["structure"]
+    },
+    {
+      "id": "icd-021",
+      "question": "How is a standard ICD-10 code structured?",
+      "answer": "One letter followed by two digits gives the three-character category (e.g. J45); a decimal point plus further characters add detail (J45.909). ICD-10-CM allows up to seven characters.",
+      "tags": ["structure"]
+    },
+    {
+      "id": "icd-022",
+      "question": "ICD-10 code for a routine general adult medical examination without abnormal findings?",
+      "answer": "Z00.00 (ICD-10-CM); Z00.0 in the WHO ICD-10.",
+      "tags": ["structure"]
+    }
+  ]
+}

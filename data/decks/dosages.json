@@ -1,0 +1,114 @@
+{
+  "name": "Emergency dosages (adult)",
+  "description": "Commonly memorised adult emergency doses. Educational revision aid only - always follow your local protocol and formulary before treating a patient.",
+  "cards": [
+    {
+      "id": "dz-001",
+      "question": "Adult adrenaline (epinephrine) dose for anaphylaxis?",
+      "answer": "0.5 mg IM (0.5 mL of 1 mg/mL, i.e. 1:1000) into the anterolateral thigh; repeat every 5 minutes if needed.",
+      "tags": ["anaphylaxis", "emergency"]
+    },
+    {
+      "id": "dz-002",
+      "question": "Adult adrenaline dose in cardiac arrest?",
+      "answer": "1 mg IV/IO (10 mL of 1:10 000) every 3-5 minutes.",
+      "tags": ["resuscitation", "emergency"]
+    },
+    {
+      "id": "dz-003",
+      "question": "Maximum adult paracetamol dose in 24 hours?",
+      "answer": "4 g/24 h (typically 1 g every 6 hours). Reduce to about 3 g/24 h with low body weight, malnutrition, chronic alcohol use or liver disease.",
+      "tags": ["analgesia"]
+    },
+    {
+      "id": "dz-004",
+      "question": "Aspirin dose in suspected acute coronary syndrome?",
+      "answer": "300 mg chewed (loading range 162-325 mg), then 75-100 mg daily.",
+      "tags": ["cardiology", "emergency"]
+    },
+    {
+      "id": "dz-005",
+      "question": "Atropine dose for symptomatic bradycardia in adults?",
+      "answer": "1 mg IV every 3-5 minutes, to a maximum total of 3 mg.",
+      "tags": ["cardiology", "emergency"]
+    },
+    {
+      "id": "dz-006",
+      "question": "Adenosine dosing for stable narrow-complex SVT?",
+      "answer": "6 mg rapid IV push into a large vein followed by a saline flush; if unsuccessful, 12 mg, and a further 12 mg if needed.",
+      "tags": ["cardiology", "emergency"]
+    },
+    {
+      "id": "dz-007",
+      "question": "Amiodarone dose in shock-refractory VF / pulseless VT?",
+      "answer": "300 mg IV/IO bolus after the third shock, then a further 150 mg after the fifth shock.",
+      "tags": ["resuscitation", "emergency"]
+    },
+    {
+      "id": "dz-008",
+      "question": "Treatment of severe hypoglycaemia in an adult with IV access?",
+      "answer": "About 25 g of glucose IV (e.g. 50 mL of 50% or 250 mL of 10% dextrose). Without IV access: glucagon 1 mg IM/SC.",
+      "tags": ["endocrine", "emergency"]
+    },
+    {
+      "id": "dz-009",
+      "question": "Magnesium sulfate regimen for eclampsia?",
+      "answer": "4 g IV loading dose over 5-15 minutes, then an infusion of 1 g/hour for at least 24 hours; a 2 g bolus for recurrent seizures.",
+      "tags": ["obstetrics", "emergency"]
+    },
+    {
+      "id": "dz-010",
+      "question": "First-line benzodiazepine dose for adult status epilepticus?",
+      "answer": "Lorazepam 4 mg IV, repeated once after 10 minutes if seizures continue (alternatives: midazolam 10 mg IM/buccal, diazepam 10 mg IV/PR).",
+      "tags": ["neurology", "emergency"]
+    },
+    {
+      "id": "dz-011",
+      "question": "Tranexamic acid regimen in major trauma?",
+      "answer": "1 g IV over 10 minutes within 3 hours of injury, then 1 g infused over 8 hours.",
+      "tags": ["trauma", "emergency"]
+    },
+    {
+      "id": "dz-012",
+      "question": "Nebulised salbutamol dose for an adult acute asthma attack?",
+      "answer": "2.5-5 mg nebulised (oxygen driven), repeated as needed or given back-to-back in severe attacks.",
+      "tags": ["respiratory", "emergency"]
+    },
+    {
+      "id": "dz-013",
+      "question": "Initial naloxone dose for opioid-induced respiratory depression?",
+      "answer": "Titrate from 0.04-0.4 mg IV every 2-3 minutes to restore breathing; 0.4-2 mg for respiratory arrest. Beware the short half-life.",
+      "tags": ["toxicology", "emergency"]
+    },
+    {
+      "id": "dz-014",
+      "question": "Ceftriaxone dose for suspected adult bacterial meningitis?",
+      "answer": "2 g IV every 12 hours; add amoxicillin/ampicillin if Listeria is a concern (over 50 years, pregnancy, immunosuppression).",
+      "tags": ["infection", "emergency"]
+    },
+    {
+      "id": "dz-015",
+      "question": "Standard paediatric fluid bolus for shock?",
+      "answer": "20 mL/kg of isotonic crystalloid (10 mL/kg in neonates, DKA or trauma), reassessing after each bolus.",
+      "tags": ["paediatrics", "fluids"]
+    },
+    {
+      "id": "dz-016",
+      "question": "Routine adult maintenance fluid requirement per day?",
+      "answer": "Roughly 25-30 mL/kg/day of water, with about 1 mmol/kg/day each of sodium, potassium and chloride, plus 50-100 g glucose.",
+      "tags": ["fluids"]
+    },
+    {
+      "id": "dz-017",
+      "question": "Vitamin K dose for warfarin reversal with major bleeding?",
+      "answer": "5-10 mg vitamin K1 by slow IV injection together with 4-factor prothrombin complex concentrate; stop the warfarin.",
+      "tags": ["anticoagulation", "emergency"]
+    },
+    {
+      "id": "dz-018",
+      "question": "Energy of the first shock for adult defibrillation (biphasic)?",
+      "answer": "120-200 J depending on the manufacturer's recommendation (use 200 J if unknown), escalating for subsequent shocks.",
+      "tags": ["resuscitation", "emergency"]
+    }
+  ]
+}
