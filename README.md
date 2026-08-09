@@ -349,5 +349,5 @@ MIT License
 ---
 
 <p align="center">
-  Built with ❤️ and Python 🐍
+  Built with Python 🐍
 </p>
