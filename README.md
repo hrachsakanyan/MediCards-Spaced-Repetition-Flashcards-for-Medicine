@@ -1,6 +1,6 @@
 # 💊 MediCards 
 
-### Spaced Repetition Flashcards for Medicine
+### Spaced Repetition Flashcards for Medicine 
 
 <p align="center">
   <strong>A command-line medical flashcard trainer powered by the Leitner spaced repetition algorithm.</strong>
