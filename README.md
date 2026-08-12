@@ -235,7 +235,7 @@ another scheduler such as **SM-2** or **FSRS** without rewriting the entire appl
 
 ---
 
-## 📊 Progress Tracking
+## 📊 Progress Tracking 
 
 Your personal learning history is stored locally:
 
