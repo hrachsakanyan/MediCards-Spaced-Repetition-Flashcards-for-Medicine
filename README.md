@@ -90,7 +90,7 @@ python -m src.main due
 
 ---
 
-## 🧠 How Spaced Repetition Works
+## 🧠 How Spaced Repetition Works 
 
 MediCards uses the **Leitner Box System**.
 
